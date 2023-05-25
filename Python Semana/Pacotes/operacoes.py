@@ -27,4 +27,15 @@ def salario(a,b):
 def volume(pi,r,alt):
         vol = pi*(r**2)*alt
         print(vol)
+def quadrado(n1):
+        print(n1**2)
+def twocarac(c1):
+        print('o usuário digitou:', c1[0],'&', c1[1])
+def cessor(n1):
+        print(n1 - 1, n1+1)
 
+def perimetroarea(b,a):
+        print('perímetro é:', (b*2)+(a*2))
+        print('área é:', (b)*(a))
+def jurossimples(v,ta,te):
+        print('a prestação será de:', v+(v*(ta/100)*te))
