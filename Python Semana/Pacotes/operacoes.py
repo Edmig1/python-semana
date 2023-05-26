@@ -11,6 +11,13 @@ def string(n1):
 def media(n1,n2,n3):
         n4 = (n1+n2+n3)/3
         print(n4)
+def media2(n1,n2):
+        n4 = (n1+n2)/2
+        print(n4)
+        if(n4 >= 6):
+                print('Aluno aprovado')
+        else:
+                print('Aluno reprovado')
 def mediaponde(n1,n2,n3):
         n5= n1+n2+n3
         n4 = n1/2 + n2/2 + n3/2
