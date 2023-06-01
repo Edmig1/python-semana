@@ -2,7 +2,7 @@ idadehV = 0
 nomehV = 0
 idademV = 0
 nomemV = 0
-for i in range(2):
+for i in range(8):
     sexo = int(input('Digite no Sexo\n1 = Homem - 2 = Mulher \n: '))
     if (sexo == 1):
         idadeh = int(input('Digite a idade: '))
