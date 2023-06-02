@@ -18,4 +18,3 @@ for i in range(10):
 print(f'A média da Idade masculina é: {idadeh/homem}')
 print(f'A média da Idade feminina é: {idadem/mulher}')
 print(f'A média da Idade geral é: {(idadeh+idadem)/(10)}')
-
