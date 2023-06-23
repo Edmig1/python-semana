@@ -1,6 +1,7 @@
 nome = ('Penne ao Molho Branco', 'Lasanha Bolonhesa', 'Pizza', 'Pastel', 'Burguer')
 preco = (25, 19, 45, 12, 25)
 valortotal = []
+qtd = 0
 def escolha ():
     print('Aqui temos nosso cardápio: ',nome)
     qtd = 0
