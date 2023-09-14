@@ -1,5 +1,4 @@
 import customtkinter as tk
-from collections import Counter as counter
 from statistics import mode
 lista = []
 media = 0
